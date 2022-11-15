@@ -1,13 +1,13 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Village","order":1,"parentId":0,"scrollX":917.1428571428571,"scrollY":667.7142857142857},
+{"id":1,"expanded":true,"name":"Village","order":1,"parentId":0,"scrollX":1086,"scrollY":795},
 {"id":2,"expanded":true,"name":"Dark Forest","order":3,"parentId":0,"scrollX":1086,"scrollY":795},
-{"id":3,"expanded":false,"name":"Maze","order":4,"parentId":2,"scrollX":982.8,"scrollY":553.1999999999999},
-{"id":4,"expanded":false,"name":"Cave","order":5,"parentId":2,"scrollX":973.1999999999999,"scrollY":646.8},
-{"id":5,"expanded":true,"name":"Inside Alchemy Shop","order":9,"parentId":6,"scrollX":982.8,"scrollY":553.1999999999999},
-{"id":6,"expanded":true,"name":"Outside Alchemy Shop","order":8,"parentId":0,"scrollX":973.7142857142857,"scrollY":768.8571428571428},
-{"id":7,"expanded":false,"name":"Ferrowyn's Home","order":2,"parentId":1,"scrollX":930.8571428571428,"scrollY":681.4285714285713},
+{"id":3,"expanded":false,"name":"Maze","order":4,"parentId":2,"scrollX":1086,"scrollY":795},
+{"id":4,"expanded":false,"name":"Cave","order":5,"parentId":2,"scrollX":1086,"scrollY":795},
+{"id":5,"expanded":true,"name":"Inside Alchemy Shop","order":9,"parentId":6,"scrollX":1086,"scrollY":795},
+{"id":6,"expanded":true,"name":"Outside Alchemy Shop","order":8,"parentId":0,"scrollX":1086,"scrollY":795},
+{"id":7,"expanded":false,"name":"Ferrowyn's Home","order":2,"parentId":1,"scrollX":1086,"scrollY":795},
 {"id":8,"expanded":false,"name":"Attic","order":10,"parentId":5,"scrollX":1404,"scrollY":790.2857142857142},
-{"id":9,"expanded":true,"name":"Mansion","order":6,"parentId":0,"scrollX":973.1999999999999,"scrollY":886.8},
-{"id":10,"expanded":false,"name":"Inside Mansion","order":7,"parentId":9,"scrollX":930.8571428571428,"scrollY":681.4285714285713}
+{"id":9,"expanded":true,"name":"Mansion","order":6,"parentId":0,"scrollX":1086,"scrollY":795},
+{"id":10,"expanded":false,"name":"Inside Mansion","order":7,"parentId":9,"scrollX":1086,"scrollY":795}
 ]
