@@ -1,13 +1,13 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Village","order":9,"parentId":0,"scrollX":1143.6,"scrollY":816},
-{"id":2,"expanded":true,"name":"Dark Forest","order":1,"parentId":0,"scrollX":974,"scrollY":808},
-{"id":3,"expanded":false,"name":"Maze","order":3,"parentId":2,"scrollX":974.4,"scrollY":816},
-{"id":4,"expanded":false,"name":"Cave","order":2,"parentId":2,"scrollX":974,"scrollY":624},
-{"id":5,"expanded":true,"name":"Inside Alchemy Shop","order":7,"parentId":6,"scrollX":626.4,"scrollY":553.1999999999999},
-{"id":6,"expanded":true,"name":"Outside Alchemy Shop","order":6,"parentId":0,"scrollX":1543.1999999999998,"scrollY":759.6},
-{"id":7,"expanded":false,"name":"Ferrowyn's Home","order":10,"parentId":1,"scrollX":626.4,"scrollY":553.1999999999999},
-{"id":8,"expanded":false,"name":"Attic","order":8,"parentId":5,"scrollX":626.4,"scrollY":553.1999999999999},
-{"id":9,"expanded":true,"name":"Mansion","order":4,"parentId":0,"scrollX":823.1999999999999,"scrollY":759.6},
-{"id":10,"expanded":false,"name":"Inside Mansion","order":5,"parentId":9,"scrollX":669.6,"scrollY":543.6}
+{"id":1,"expanded":true,"name":"Village","order":9,"parentId":0,"scrollX":1086,"scrollY":795},
+{"id":2,"expanded":true,"name":"Dark Forest","order":1,"parentId":0,"scrollX":1086,"scrollY":795},
+{"id":3,"expanded":false,"name":"Maze","order":3,"parentId":2,"scrollX":1086,"scrollY":795},
+{"id":4,"expanded":false,"name":"Cave","order":2,"parentId":2,"scrollX":1086,"scrollY":795},
+{"id":5,"expanded":true,"name":"Inside Alchemy Shop","order":7,"parentId":6,"scrollX":1086,"scrollY":795},
+{"id":6,"expanded":true,"name":"Outside Alchemy Shop","order":6,"parentId":0,"scrollX":1086,"scrollY":795},
+{"id":7,"expanded":false,"name":"Ferrowyn's Home","order":10,"parentId":1,"scrollX":1086,"scrollY":795},
+{"id":8,"expanded":false,"name":"Attic","order":8,"parentId":5,"scrollX":1086,"scrollY":795},
+{"id":9,"expanded":true,"name":"Mansion","order":4,"parentId":0,"scrollX":1086,"scrollY":795},
+{"id":10,"expanded":false,"name":"Inside Mansion","order":5,"parentId":9,"scrollX":1086,"scrollY":795}
 ]
